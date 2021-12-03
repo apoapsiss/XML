@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<favorite movie>Interstellar</favorite movie>
-<favorite TV series>Better call Saul</favorite TV series>
-<favorite food>Pizza</favorite food>
-<favorite season>winter and summer</favorite season>
-<country you would like to visit>Island</country you would like to visit>
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+<favorite_movie>Interstellar</favorite_movie>
+<favorite_TV_series>Better call Saul</favorite_TV_series>
+<favorite_food>Pizza</favorite_food>
+<favorite_season>winter and summer</favorite_season>
+<country_you_would_like_to_visit>Island</country_you_would_like_to_visit>
+</body>
